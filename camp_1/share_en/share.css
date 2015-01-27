@@ -9,8 +9,7 @@ body {
     font-size: 14px;
     color: #555;
     min-height: 100%;
-    background-color: #eee;
-    background-image: url(/press/images/gray_jean.png);
+    background-color: #fff;
 }
 
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
@@ -22,7 +21,7 @@ a, a:visited, a:active, a:hover {
 }
 
 h1 {
-    background-color: #000;
+    background-color: #00adb9;
     color: #fff;
     padding: 10px;
     margin: 0px 0px 30px 0px;
