@@ -17,11 +17,11 @@ body {
 
 a, a:visited, a:active, a:hover {
     text-decoration: none;
-    outline: none;    
+    outline: none;
 }
 
 h1 {
-    background-color: #00adb9;
+    background-color: #fbb03b;
     color: #fff;
     padding: 10px;
     margin: 0px 0px 30px 0px;
@@ -201,5 +201,5 @@ button.twitter {
     color: #aaa;
     text-align: center;
     width: 100%;
-    
+
 }
